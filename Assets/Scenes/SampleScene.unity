@@ -154,8 +154,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   straightPipePrefab: {fileID: 2266915994514193125, guid: 3e47b88915f6ae04287cd41b209e45ff, type: 3}
   pipeLength: 2
-  currentPos: {x: 0, y: 0, z: 0}
-  currentDirection: {x: 0, y: 0, z: 0}
+  rangeLength: 20
+  rangeWidth: 20
+  rangeHeight: 20
 --- !u!4 &436240742
 Transform:
   m_ObjectHideFlags: 0
